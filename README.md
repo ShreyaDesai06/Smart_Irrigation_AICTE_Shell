@@ -1,7 +1,7 @@
 # Smart_Irrigation_AICTE_Shell
 # 🌱 Smart Irrigation System
 
-A Python-based smart irrigation project using 19 soil moisture sensors and 3 pumps to automate water supply based on real-time data.
+A Python-based smart irrigation project using 20 soil moisture sensors and 3 pumps to automate water supply based on real-time data.
 
 ## 🚀 Features
 - Real-time soil and weather data analysis
@@ -12,7 +12,7 @@ A Python-based smart irrigation project using 19 soil moisture sensors and 3 pum
 ## 🛠️ Tools & Tech
 - Python 3.12.8
 - VS Code, Kaggle
-- Libraries: pandas, numpy, sklearn, matplotlib, pickle
+- Libraries: pandas, numpy, sklearn, matplotlib, pickle,streamlit
 
 ## 📁 Files
 - `irrigation.ipynb` – Main code  
